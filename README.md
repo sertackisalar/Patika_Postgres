@@ -4,76 +4,71 @@ This GitHub repository contains my work on PostgreSQL databases and applications
 This repository was created to showcase my expertise and abilities with PostgreSQL.
 
 
-About Projects
+Below is a list of SQL operators and topics for the tasks to be carried out:
 
-SQL Operatörleri ve Konular
-
-
-Aşağıda çalışmalar yapıcalak SQL operatörleri ve konuların bir listesi bulunmaktadır:
 
 1. `SELECT`
-2. `WHERE` ve Karşılaştırma Operatörleri
-3. `WHERE` ve Mantıksal Operatörler
-4. `BETWEEN` ve `IN`
-5. `LIKE` ve `ILIKE`
-6. `DISTINCT` ve `COUNT`
+2. `WHERE` and Comparison Operators
+3. WHERE and Logical Operators
+4. `BETWEEN` and `IN`
+5. `LIKE` and `ILIKE`
+6. `DISTINCT` and `COUNT`
 7. `ORDER BY`
-8. `LIMIT` ve `OFFSET`
-9. Aggregate Fonksiyonlar
-10. `GROUP BY` ve `HAVING`
+8. `LIMIT` and `OFFSET`
+9. Aggregate Functions
+10. `GROUP BY` and `HAVING`
 11. ALIAS
-12. Tablo Oluşturmak - Silmek
-13. Verileri Güncellemek - Silmek
+12. Creating - Deleting a Table
+13. Updating - Deleting Data
 14. `PRIMARY KEY` - `FOREIGN KEY`
-15. Veri Tipleri I
-16. Veri Tipleri II
-17. `NOT NULL` ve `ALTER`
+15. Data Types I
+16. Data Types II
+17. `NOT NULL` and `ALTER`
 18. `UNIQUE`
 19. `CHECK`
-20. PSQL ve Uygulama II
+20. PSQL and Application II
 21. `INNER JOIN`
 22. `LEFT JOIN`
 23. `RIGHT JOIN`
 24. `FULL JOIN`
 25. `UNION`
-26. `INTERSECT` ve `EXCEPT`
-27. Alt Sorgu Nedir?
-28. `ANY` ve `ALL` Operatörleri
-29. Alt sorgular ve JOIN Yapısı
+26. `INTERSECT` and `EXCEPT`
+27. What is a Subquery?
+28. `ANY` and `ALL` Operators
+29. Subqueries and JOIN Structure
 
 
-Çalışmalar:
+Tasks:
 
-Çalışma 1:  ve  operatörlerini kullanarak veri sorgulama çalışması.
+Task 1: Data query study using and operators.
 
-Çalışma 2: `LIKE` ve `ILIKE` operatörleriyle metin arama çalışması.
+Task 2: Text search study with `LIKE` and `ILIKE` operators.
 
-Çalışma 3: `DISTINCT` ve `COUNT` ile benzersiz değerlerin sayılması çalışması.
+Task 3: Counting unique values with `DISTINCT` and `COUNT`.
 
-Çalışma 4: Toplama işlevleri ile veri toplama çalışması.
+Task 4: Data collection study with aggregation functions.
 
-Çalışma 5: `GROUP BY` ve `HAVING` ile gruplandırma ve gruplama sonuçlarını filtreleme çalışması.
+Task 5: Study of grouping and filtering the grouping results with `GROUP BY` and `HAVING`.
 
-Çalışma 6: İlişkisel veritaban tasarımı için `PRIMARY KEY` ve `FOREIGN KEY` kullanma çalışması.
+Task 6: Study of using `PRIMARY KEY` and `FOREIGN KEY` for relational database design.
 
-Çalışma 7: Veri tipleri ve sütun kısıtlamalarıyla ilgili çalışma.
+Task 7: Study on data types and column constraints.
 
-Çalışma 8: `UNIQUE`, `CHECK` ve `ALTER` komutlarını kullanarak veritabanı tasarımı çalışması.
+Task 8: Database design study using `UNIQUE`, `CHECK` and `ALTER` commands.
 
-Çalışma 9: `LEFT JOIN`, `RIGHT JOIN` ve `FULL JOIN` ile veri birleştirme çalışması.
+Task 9: Data merging study with `LEFT JOIN`, `RIGHT JOIN` and `FULL JOIN`.
 
-Çalışma 10: `UNION`, `INTERSECT` ve `EXCEPT` ile veri kümesi birleştirme çalışması.
+Task 10: Dataset merging study with `UNION`, `INTERSECT` and `EXCEPT`.
 
-Çalışma 11: Alt sorgular ve JOIN yapısı kullanarak veri sorgulama çalışması.
-
-
-
-Uygulamalar:
+Task 11: Data query study using subqueries and JOIN structure.
 
 
-PSQL ve Uygulama I: PostgreSQL komut satırı aracını (PSQL) kullanarak veritabanı işlemleri ve temel uygulama.
+Applications:
 
-PSQL ve Uygulama II: PostgreSQL veritabanı işlemleri ve ileri seviye uygulama geliştirme.
+
+PSQL and Application I: Database operations and basic application using the PostgreSQL command line tool (PSQL).
+
+PSQL and Application II: PostgreSQL database operations and advanced application development.
 
 
 
